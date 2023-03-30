@@ -1,0 +1,3 @@
+[submodule "client"]
+	path = client
+	url = git@github.com:ngoodman3209/jwt-token-project.git
